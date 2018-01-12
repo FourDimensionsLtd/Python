@@ -1,4 +1,4 @@
 #数据读取
-data_total=open('*.:\*.txt',encoding="utf-8")
+data_total=open('.:\.txt',encoding="utf-8")
 for i in data_total:
     print(i)
